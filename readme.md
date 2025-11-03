@@ -29,6 +29,7 @@ Due to not following a set tutorial, and mostly brute-forcing my way into the un
 
 Overall, many lessons were learned from this project, including how z axis in 2D unity engine functions to assist in layers (this was used to implement the Parallax scrolling) how to use collision boxes for entity detection, event triggers, and action triggers (for dialogue and combat), how to use the sound engine to play sound effects and music, etc.
 
+exe file is included in `run file.zip`.
 
 ## Assets used
 - Sound effects: [RPG Essentials Sound Effects](https://assetstore.unity.com/packages/audio/sound-fx/rpg-essentials-sound-effects-free-227708)
